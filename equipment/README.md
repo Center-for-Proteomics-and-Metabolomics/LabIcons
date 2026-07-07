@@ -11,4 +11,4 @@
 |<img src="rapifleX_small.png" alt="rapifleX mass spectrometer" height="70">|[rapifleX.png](rapifleX.png)|[rapifleX.ai](rapifleX.ai)|rapifleX mass spectrometer|[Manon Zuurmond](https://orcid.org/0009-0001-3017-0401)|   |
 |<img src="ultimate3000_small.png" alt="Ultimate 3000 UHPLC system" height="70">|[ultimate3000.png](ultimate3000.png)|[ultimate3000.ai](ultimate3000.ai)|Ultimate 3000 UHPLC system|[Manon Zuurmond](https://orcid.org/0009-0001-3017-0401)|   |
 
-All of these images are licensed under CC-BY 4.0, and may be used in publications with the appropriate attribution in the figure caption or acknowledgement.
+All of these images are licensed under CC-BY 4.0, and may be used by anyone in publications with the appropriate attribution in the figure caption or acknowledgement. These illustrations complement those in [NIH BioArt](https://bioart.niaid.nih.gov/), and are consistent in style. The BioArt content is provided under CC-BY 4.0 or CC0. Together, the matching style and compatible licenses simplifies depicting experimental workflows using illustrations created by human professional scientific illustrators.
