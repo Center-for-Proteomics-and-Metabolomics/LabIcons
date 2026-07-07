@@ -1,6 +1,6 @@
 **All illustrations below are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Do not forget to attribute them to the artist.**
 
-|Image|PNG|AI|Description|Artist|Comment|
+|Image|PNG|Adobe Illustrator|Description|Artist|Comment|
 |:-:|---|---|---|---|---|
 |<img src="astral_small.png" alt="Astral mass spectrometer" height="70">|[astral.png](astral.png)|[astral.ai](astral.ai)|Astral mass spectrometer|[Manon Zuurmond](https://orcid.org/0009-0001-3017-0401)|   |
 |<img src="centrifuge_small.png" alt="Centrifuge" height="70">|[centrifuge.png](centrifuge.png)|[centrifuge.ai](centrifuge.ai)|Laboratory centrifuge|[Manon Zuurmond](https://orcid.org/0009-0001-3017-0401)|   |
