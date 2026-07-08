@@ -1,2 +1,2 @@
 # LabIcons
-LabIcons is a collection of professional illustrations of CPM laboratory equipment for use in papers and presentations.
+LabIcons is a collection of professional illustrations of CPM laboratory equipment for use in papers and presentations. See [eqiupment](https://github.com/Center-for-Proteomics-and-Metabolomics/LabIcons/tree/main/equipment) for illustrations of laboratory equipment such as mass spectrometers and liquid chromatography systems, and [molecules](https://github.com/Center-for-Proteomics-and-Metabolomics/LabIcons/tree/main/molecules) for schematic illustration of molecules such as antibodies.
